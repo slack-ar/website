@@ -1,0 +1,41 @@
+body {
+ color: #95c9c1;
+ background-color: #222222;
+}
+
+#indextitle {
+ color: #95c9c1;
+}
+
+.odd {
+ color: #EEEEEE;
+ background-color: #333333;
+}
+
+.even {
+ color: #EEEEEE;
+ background-color: #444444;
+}
+
+/* unvisited link */
+a:link {
+  color: #eeeeee;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #95c9c1;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #e9ff85;
+}
+
+/* selected link */
+a:active {
+  color: #b2d0f7;
+}
+
